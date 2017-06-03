@@ -4,3 +4,5 @@ function Token(type, value) {
     value,
   }
 }
+
+module.exports = Token;
